@@ -732,3 +732,4 @@
       \letterenclosurestyle{\@letterenclname: \@letterenclosure} \\
     }
 }
+%
